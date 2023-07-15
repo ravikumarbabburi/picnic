@@ -1,3 +1,4 @@
+# This is java script file
 var fs = require('fs');
 
 module.exports = function (grunt) {
